@@ -1,5 +1,7 @@
 <template>
   <section class="brands">
-    <h2>About</h2>
+  <center>
+    <h2>О нас</h2>
+  </center>
   </section>
 </template>
