@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import navbar from './components/navbar.vue'
 import index from './components/index.vue'
 import about from './components/about.vue'
 
@@ -20,5 +21,6 @@ var router = new VueRouter({
 
 var app = new Vue({
   el: '#app',
+  components: { navbar },
   router: router
 })
