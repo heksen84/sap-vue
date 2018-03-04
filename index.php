@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<title>Заказать сайт</title>
+<title>DreamSite - заказать сайт</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <meta charset = "utf-8">
 <meta name = "viewport"	content	= "width=device-width"/>
