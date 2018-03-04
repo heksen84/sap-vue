@@ -1,0 +1,33 @@
+{
+  "name": "ilboweb",
+  "description": "Vue.js site",
+  "author": "Ilya Bobkov (heksen84@yandex.ru)",
+  "private": true,
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
+  "dependencies": {
+    "vue": "^2.5.13",
+    "vue-router": "^2.3.0",
+    "bootstrap": "^4.0.0",
+    "bootstrap-vue": "^1.5.1",
+    "vue-template-compiler": "^2.5.13"    
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "cross-env": "^3.2.3",
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-es2015": "^6.13.2",
+    "cross-env": "^3.1.3",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.8.4",
+    "node-sass": "^3.9.2",
+    "pug": "^2.0.0-beta6",
+    "sass-loader": "^4.0.1",
+    "vue-loader": "^9.2.2",
+    "webpack": "^2.1.0-beta.22",
+    "webpack-dev-server": "^2.1.0-beta.0"  }
+}
