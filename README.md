@@ -1,1 +1,1 @@
-<h3>Загатовка для одностраничника Vue + VueRouter + WebPack + PHP</h3>
+<h4>Заготовка для одностраничника Vue + VueRouter + WebPack + PHP</h4>
