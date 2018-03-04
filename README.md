@@ -1,1 +1,1 @@
-Загатовка для одностраничника Vue + VueRouter + WebPack + PHP
+Р—Р°РіР°С‚РѕРІРєР° РґР»СЏ РѕРґРЅРѕСЃС‚СЂР°РЅРёС‡РЅРёРєР° Vue + VueRouter + WebPack + PHP
