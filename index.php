@@ -18,7 +18,7 @@
     <b-collapse is-nav id="nav_dropdown_collapse">
       <b-navbar-nav>
         <b-nav-item href="/"><b>DreamSite</b></b-nav-item>
-        <b-nav-item href="/about">Link</b-nav-item>
+        <b-nav-item href="/about">О нас</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
